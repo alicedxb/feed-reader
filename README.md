@@ -1,5 +1,9 @@
 Instructions
 
+Visit https://alicedxb.github.io/feed-reader/
+
+or 
+
 1. Download all files
 2. Open index.html in the browser
 
